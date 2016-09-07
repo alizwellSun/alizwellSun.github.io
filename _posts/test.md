@@ -12,7 +12,7 @@
    - javascript
    - php
    - AngularJS
-   ---
+---
 hello world......!
 作者：xxxx
 链接：http://www.zhihu.com/question/23934523/answer/50518023
